@@ -80,14 +80,8 @@ Currently, I am preparing for entry-level roles such as **Data Analyst** or **AI
 ---
 
 ## 🔥 GitHub Contribution Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashe24&show_icons=true&theme=tokyonight)
 
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Shashe24&theme=tokyonight" 
-    alt="GitHub Streak"
-  />
-</p>
 ---
 
 ## 🎯 Career Focus
