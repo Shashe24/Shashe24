@@ -79,8 +79,7 @@ Currently, I am preparing for entry-level roles such as **Data Analyst** or **AI
 
 ---
 
-## 🔥 GitHub Contribution Streak
-## 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Strea
 
 - Consistent contributor with regular commits
 - Actively working on Python, ML, and data analysis projects
