@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H. P. Shashank</h1>
-<h3 align="center">AI & ML Undergraduate | Aspiring Data Analyst | Python • SQL • Machine Learning</h3>
+<h3 align="center">AI & ML Undergraduate | Aspiring Machine Learning | Python • SQL • Data Analyst </h3>
 
 <p align="center">
   <a href="https://shashe24.github.io/portfolio/" target="_blank">🌐 Portfolio</a> •
