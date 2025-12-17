@@ -80,6 +80,13 @@ Currently, I am preparing for entry-level roles such as **Data Analyst** or **AI
 ---
 
 ## 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
+
+- Consistent contributor with regular commits
+- Actively working on Python, ML, and data analysis projects
+- Strong focus on continuous learning and improvement
+---
+
 ## 📊 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashe24&theme=tokyo-night)
