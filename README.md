@@ -30,10 +30,6 @@ Currently, I am preparing for entry-level roles such as **Data Analyst** or **AI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 Deep Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
-
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -49,46 +45,6 @@ Currently, I am preparing for entry-level roles such as **Data Analyst** or **AI
 - End-to-end workflow: data preprocessing → model training → evaluation
 - Focused on **media authenticity and digital security**
 - Deployed as a **Flask-based web application**
-
----
-
-## 📜 Certifications & Achievements
-
-### 🏅 Certifications
-- Artificial Intelligence & Machine Learning – Academic Specialization (VTU)
-- Python for Data Analysis (NumPy, Pandas, Matplotlib)
-- Machine Learning Fundamentals (Supervised & Unsupervised Learning)
-- Deep Learning Basics (Neural Networks, CNNs, Transfer Learning)
-- SQL for Data Analysis (Joins, Aggregations, Subqueries)
-
-### 🏆 Achievements
-- Built a **production-ready deep learning project**
-- Achieved high precision in image classification
-- Completed multiple **hands-on ML & data analysis projects**
-- Strong understanding of **end-to-end ML pipelines**
-- Presented AI projects during academic reviews
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashe24&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashe24&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Contribution Strea
-
-- Consistent contributor with regular commits
-- Actively working on Python, ML, and data analysis projects
-- Strong focus on continuous learning and improvement
----
-
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashe24&theme=tokyo-night)
 
 ---
 
