@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm SRIJAN</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm H P SHASHANK </h1>
 <h3 align="center">AI & ML Undergraduate | Aspiring Machine Learning | Python • SQL • Data Analyst </h3>
 
 <p align="center">
